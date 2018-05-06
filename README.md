@@ -14,3 +14,10 @@ Game Last Wish made in Ludum Dare 39 Jam
 https://github.com/iMeiji/shadowsocks_install/wiki/shadowsocks-libev
 
 https://github.com/FelisCatus/SwitchyOmega
+
+	1. 添加chrome源
+		> cd /etc/yum.repos.d
+		>
+		> wget  http://repo.fdzh.org/chrome/google-chrome-mirrors.repo
+	4. 安装Chrome
+		> dnf install -y google-chrome-stable
