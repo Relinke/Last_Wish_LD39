@@ -12,3 +12,5 @@ Game Last Wish made in Ludum Dare 39 Jam
       "timeout": 5
     }
 https://github.com/iMeiji/shadowsocks_install/wiki/shadowsocks-libev
+
+https://github.com/FelisCatus/SwitchyOmega
